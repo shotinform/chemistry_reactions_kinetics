@@ -1,2 +1,2 @@
 # chemistry_reactions_kinetics
-Project done in Analysis 4 course, about modeling chemistry reactions with differential equations.
+Project completed in the Analysis 4 course on modeling chemical reactions with differential equations. <s:revrxarrowred>
